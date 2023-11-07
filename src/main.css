@@ -35,6 +35,6 @@ footer {
   margin: 15px 0;
 }
 
-.calc-button:hover {
+.calc-button::hover {
   color: #FFC107;
 }
